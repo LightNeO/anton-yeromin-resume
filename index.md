@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anton Yeromin                                                                              [GitHub Profile Page]([url](https://github.com/LightNeO))
+# 👋 Hi, I'm Anton Yeromin
 
 🎮 Senior QA Engineer with 5+ years in game and mobile app testing  
 🌍 Platforms: Windows, Android, iOS, Steam Deck, XBOX/PS4
@@ -23,7 +23,7 @@ Led QA efforts for games across platforms. Created documentation, mentored junio
 
 ## 🎓 Education
 - 🎓 Sumy National Agrarian University — Bachelor's in IT (2018)
-- 🧠 Prometheus Academy — QA Automation with Python
+- 🧠 Prometheus Academy — QA Automation with Python (practice for self-education - in my [GitHub profile]([url](https://github.com/LightNeO)))
 
 ---
 
