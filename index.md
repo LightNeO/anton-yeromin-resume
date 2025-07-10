@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anton Yeromin
+# 👋 Hi, I'm Anton Yeromin                                                                              [GitHub Profile Page]([url](https://github.com/LightNeO))
 
 🎮 Senior QA Engineer with 5+ years in game and mobile app testing  
 🌍 Platforms: Windows, Android, iOS, Steam Deck, XBOX/PS4
