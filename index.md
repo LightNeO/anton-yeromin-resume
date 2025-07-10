@@ -23,7 +23,8 @@ Led QA efforts for games across platforms. Created documentation, mentored junio
 
 ## 🎓 Education
 - 🎓 Sumy National Agrarian University — Bachelor's in IT (2018)
-- 🧠 Prometheus Academy — QA Automation with Python (practice for self-education - in my [GitHub profile]([url](https://github.com/LightNeO)))
+- 🧠 Prometheus Academy — QA Automation with Python (practice for self-education - in my <a href="https://github.com/LightNeO" target="_blank" rel="noopener noreferrer">GitHub Profile</a>
+)
 
 ---
 
