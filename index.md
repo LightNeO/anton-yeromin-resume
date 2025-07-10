@@ -36,4 +36,4 @@ Led QA efforts for games across platforms. Created documentation, mentored junio
 ## 📫 Contact
 📧 antonereminsumy@gmail.com  
 📞 +380 95 183 3435  
-🌐 [PDF Resume](assets/Anton_Yeryomin_20resume.pdf)
+🌐 [PDF Resume](assets/Anton_Yeryomin_resume.pdf)
